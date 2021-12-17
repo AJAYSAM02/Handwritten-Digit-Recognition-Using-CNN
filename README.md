@@ -9,4 +9,4 @@
 - The handwritten digits images are represented as a 28×28 matrix where each cell contains grayscale pixel value.
 ## Model
 1. Import necessary libraries
-   First, we are going to import all the modules that we are going to need for training our model.
+- First, we are going to import all the modules that we are going to need for training our model.
